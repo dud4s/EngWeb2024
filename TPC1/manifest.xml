@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+    <meta>
+        <title>TPC1</title>
+        <date>2024-02-07</date>
+        <author>
+            <id>A95345</id>
+            <nome>Eduardo Miguel Pacheco Silva</nome>
+        </author>
+        <uc>
+            <sigla>EngWeb2024</sigla>
+            <nome>Engenharia Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p>Primeiro parágrafo</p>
+        <p>Segundo parágrafo</p>
+        <p>O dataset <url>https://epl.di.uminho.pt/~jcr/AULAS/EngWeb2023/aulas2023.html#P1</url><texto>MapaRuas-materialBase</texto> encontra-se numa diretoria 2 níveis a cima da diretoria onde está presente o script.</p>
+    </resumo>
+    <resultados>
+        <resultado>Resultado 1</resultado>
+        <resultado>Resultado 2</resultado>
+    </resultados>
+</doc>
