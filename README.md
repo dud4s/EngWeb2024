@@ -16,4 +16,4 @@
 
 **Fotografia:**
 
-![Fotografia](./me.jpg)
+![Fotografia](./me.png)
