@@ -81,7 +81,6 @@ class Rua:
                     <h1>{self.nome}</h1>
                     {''.join([str(para) for para in self.paragrafos])}
                     {''.join([figura.to_html() for figura in self.figuras])}
-
                     {''.join([casa.to_html() for casa in self.casas])}
                     <center>
                     <span>[</span><a href="../index.html">Voltar ao índice</a><span>]</span>
