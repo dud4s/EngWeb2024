@@ -16,4 +16,4 @@
 
 **Fotografia:**
 
-![Fotografia](https://ducv5.uminho.pt/Photo.aspx?id=95345&tp=A)
+![Fotografia](./me.png)
