@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+    <meta>
+        <title>TPC1</title>
+        <date>2024-02-22</date>
+        <author>
+            <id>A95345</id>
+            <nome>Eduardo Miguel Pacheco Silva</nome>
+        </author>
+        <uc>
+            <sigla>EngWeb2024</sigla>
+            <nome>Engenharia Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+            <p>Neste trabalho é utilizado o dataset <url>https://epl.di.uminho.pt/\~jcr/TRANSF/db.json</url> que contém informações sobre alunos, cursos e instrumentos de uma escola de música.</p>
+        <p>Foi nos pedido, e desenvolvido um servidor em node-js juntamente com o json-server para responder a pedidos feitos pelo utilizador, apresentando um índice com alunos, instrumentos e cursos e as respetivas hiper-ligações.</p>
+    </resumo>
+    <resultados>
+        <resultado>Página Web dinâmica.</resultado>
+        <resultado>Criação de um servidor em node-js.</resultado>
+        <resultado>Criação de um servidor json-server.</resultado>
+        <resultado>Criação de um índice com hiper ligações para os respetivos cursos, alunos, instrumentos.</resultado>
+        <resultado>Apresentação dos dados fornecidos pela base de dados.</resultado>
+        <resultado>Hiperligações adicionadas a dados relacionados.</resultado>
+    </resultados>
+</doc>
