@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+    <meta>
+        <title>TPC1</title>
+        <date>2024-02-22</date>
+        <author>
+            <id>A95345</id>
+            <nome>Eduardo Miguel Pacheco Silva</nome>
+        </author>
+        <uc>
+            <sigla>EngWeb2024</sigla>
+            <nome>Engenharia Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+            <p>Neste trabalho é utilizado o dataset <url>https://epl.di.uminho.pt/\~jcr/TRANSF/db.json</url> 
+            que contém informação sobre compositores musicais, como nome, biografia, data de nascimento e obito, e o periodo em que viveram.
+            </p>
+    <resultados>
+        <resultado>Página Web dinâmica com a criação de um servidor em node-js.</resultado>
+        <resultado>Rota para compositores e periodos com operações CRUD associadas a cada rota (criar, remover, atualizar e ver compositores e periodos) mas sem recorrer a express.</resultado>
+        <resultado>Criação de templates para cada página.</resultado>
+    </resultados>
+</doc>
