@@ -1,0 +1,12 @@
+extends layout
+
+block content
+  .w3-container
+    center
+      b
+        h1.w3-red= message
+        h2.w3-teal= error.status
+      hr
+      .w3-container.w3-light-gray
+        pre #{error.stack}
+      hr
